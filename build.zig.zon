@@ -1,0 +1,10 @@
+.{
+    .name = .syzigy,
+    .version = "0.1.0",
+    .fingerprint = 0x8857d8dd427bbac6,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
