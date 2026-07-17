@@ -1,5 +1,7 @@
 # syzigy
 
+***NOTE: AI Generated Code***
+
 A Z-machine interpreter written in Zig, aimed at running the classic
 Infocom (and Infocom-alike) interactive fiction titles — Zork I/II/III,
 Adventure (Colossal Cave, the Microsoft/Infocom port), Hitchhiker's Guide,
